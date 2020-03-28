@@ -2012,23 +2012,23 @@ h3 {
 @media (max-width: 767px) {
   /* line 6, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
   .footer .footer_top {
-    padding-top: 50px;
-    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 6, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
   .footer .footer_top {
-    padding-top: 50px;
-    padding-bottom: 60px;
+    padding-top: 20px;
+    padding-bottom: 10px;
   }
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 6, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
   .footer .footer_top {
-    padding-top: 10px;
+    padding-top: 20px;
     padding-bottom: 10px;
   }
 }
@@ -2121,7 +2121,7 @@ h3 {
   /* line 71, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
   .footer .socail_links {
     text-align: left;
-    margin-top: 30px;
+    margin-top: 40px;
   }
 }
 
@@ -2129,7 +2129,7 @@ h3 {
   /* line 71, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
   .footer .socail_links {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 40px;
   }
 }
 
@@ -2207,7 +2207,7 @@ h3 {
 
 .bradcam_text_2{
   color: #ffffff;
-  
+
 }
 
 .bradcam_pic{
